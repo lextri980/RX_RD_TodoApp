@@ -1,0 +1,14 @@
+.edit-btn, .del-btn, .add-btn{
+  width: 90px !important;
+  height: 35px !important;
+}
+
+input[type=text]{
+  width: 300px;
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+}
+
