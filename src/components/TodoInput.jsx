@@ -5,7 +5,7 @@ import { addTodo } from "../redux/actions";
 import { useDispatch } from "react-redux";
 
 function TodoInput() {
-  let [name, setName] = useState('');
+  let [name, setName] = useState("");
   const dispatch = useDispatch();
 
   return (
